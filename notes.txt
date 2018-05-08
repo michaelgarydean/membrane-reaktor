@@ -1,0 +1,9 @@
+glitch-effects.ens
+- has gated sequencer
+- redux effect
+- delay effect
+
+1/beats/second
+
+= seconds/beat*1000
+= ms/beat
